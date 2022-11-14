@@ -1,0 +1,19 @@
+[Info]
+name="mustafa"
+displayname="mustafa"
+versiondate=10,10,2022
+mugenversion=1.1
+author="manoel vitor"
+pal.defaults=1
+[Files]
+sprite=mustafa.sff
+sound=mustafa.snd
+anim=mustafa.air
+cmd=mustafa.cmd
+cns=mustafa.cns
+st=mustafa.cns
+stcommon=common1.cns
+pal1=paleta.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=

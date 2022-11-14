@@ -1,0 +1,22 @@
+[Info]
+name="nora"
+displayname="Lady nora"
+versiondate=10,10,2022
+mugenversion=1.1
+author="manoel vitor"
+pal.defaults=1
+[Files]
+sprite=nora.sff
+sound=nora.snd
+anim=nora.air
+cmd=nora.cmd
+cns=nora.cns
+st=nora.cns
+stcommon=common1.cns
+pal1=paleta.act
+pal2=paleta2.act
+pal3=paleta3.act
+pal4=paleta4.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=

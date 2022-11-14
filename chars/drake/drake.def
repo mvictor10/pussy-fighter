@@ -1,0 +1,22 @@
+[Info]
+name="drake"
+displayname="Drake"
+versiondate=10,10,2022
+mugenversion=1.1
+author="manoel vitor"
+pal.defaults=1
+[Files]
+sprite=drake.sff
+sound=drake.snd
+anim=drake.air
+cmd=drake.cmd
+cns=drake.cns
+st=drake.cns
+stcommon=common1.cns
+pal1=paleta.act
+pal2=paleta2.act
+pal3=paleta3.act
+pal4=paleta4.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=

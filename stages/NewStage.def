@@ -1,0 +1,100 @@
+; Definition of new stage 
+; *** You need create & select sff file before test.
+; This default values can be edited in EmptyStage.def.
+
+;--------------------------------------------------------
+[Info]
+name = "Stage00"
+displayname = "Stage00"
+versiondate = 09,30,2009
+mugenversion = 1.0
+author = "Elecbyte"
+
+;-------------------------------------
+[BGdef]
+spr = 
+debugbg =0
+
+;--------------------------------------------------------
+[Music]
+bgmusic = 
+bgmvolume = 100
+
+;--------------------------------------------------------
+[Camera]
+startx = 0
+starty = 0
+boundleft = -125
+boundright = 125
+boundhigh = -25
+boundlow = 0
+verticalfollow = .2
+floortension = 0
+tension = 50
+overdrawhigh = 0
+overdrawlow = 0
+cuthigh = 35
+cutlow = 25
+
+;--------------------------------------------------------
+[PlayerInfo]
+;--- Player 1 ---
+p1startx = -70
+p1starty = 0
+p1facing = 1
+;--- Player 2 ---
+p2startx = 70
+p2starty = 0
+p2facing = -1
+;--- Common ---
+;Don't change these values.
+leftbound = -1000
+rightbound = 1000
+
+;--------------------------------------------------------
+[Bound]
+screenleft = 15
+screenright = 15
+
+;--------------------------------------------------------
+[StageInfo]
+zoffset = 190
+autoturn = 1
+resetBG = 1
+localcoord = 320, 240
+xscale = 1
+yscale = 1
+
+;--------------------------------------------------------
+[Shadow]
+intensity = 96
+color = 0,0,0
+yscale = .3
+fade.range = 0,0
+
+;--------------------------------------------------------
+[Reflection]
+intensity = 0
+
+;----------
+[BG 0]
+type = normal
+spriteno = 0, 0
+layerno = 0
+start = 0, 0
+delta = 1, 1
+trans = none
+mask = 0
+tile = 1, 0
+tilespacing = 0,0
+
+;----------
+[BG 1]
+type = normal
+spriteno = 0, 1
+start = 0, 185
+delta = 1, 1
+mask = 0
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 0, 0

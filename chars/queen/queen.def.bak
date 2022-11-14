@@ -1,0 +1,19 @@
+[Info]
+name="queen"
+displayname="gata rainha"
+versiondate=13/11/2022
+mugenversion=04,14,2001
+author="manoel vitor"
+pal.defaults=1,2,3,4,5
+[Files]
+sprite=queen.sff
+sound=queen.snd
+anim=queen.air
+cmd=queen.cmd
+cns=queen.cns
+st=queen.cns
+stcommon=
+pal1=paleta.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=
