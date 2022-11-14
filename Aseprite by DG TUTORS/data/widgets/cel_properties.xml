@@ -1,0 +1,10 @@
+<!-- ASEPRITE -->
+<!-- Copyright (C) 2001-2013, 2015 by David Capello -->
+<gui>
+<window text="Cel Properties" id="cel_properties">
+  <grid columns="2">
+    <label text="Opacity:" />
+    <slider min="0" max="255" id="opacity" cell_align="horizontal" width="128" />
+  </grid>
+</window>
+</gui>
