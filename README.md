@@ -1,4 +1,4 @@
-# pussy-fighter
+# Pussy Fighter (Combate de Bichanos)
 Jogo de luta
 
 #Personagens
