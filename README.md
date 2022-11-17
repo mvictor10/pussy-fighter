@@ -1,4 +1,5 @@
 # Pussy Fighter (Combate de Bichanos)
+
 #Personagens[
   1 - Madame Nora
   2 - Mustafá
@@ -16,6 +17,7 @@
 ========================================================================================
 
 # Pussy Fighter
+
 #Characters[
   1 - Madame Nora
   2 - Mustafa
@@ -32,6 +34,7 @@
 =======================================================================================
 
 # Pussy Fighter (Luchador de  coño)
+
 #Personaje[
   1 - Señora Nora
   2 - Mustafa
